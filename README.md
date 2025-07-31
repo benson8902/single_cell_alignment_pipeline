@@ -40,6 +40,8 @@
 >  ★Even though only have SRR******_1.fastq.gz and SRR******_2.fastq.gz also need to check which one is Read1 and Read2.
 > 
 >  ★After check fastqc is correct, rename fastq file
+>
+>  ★FASTQ Detailed Description: https://help.basespace.illumina.com/files-used-by-basespace/fastq-files
 >  
   `Excute 『rename_fastq.sh』`
   
